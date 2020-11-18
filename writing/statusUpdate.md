@@ -11,9 +11,19 @@ TODO
 #### Title:
 TODO
 
-#### Where I am with this project:
+#### Subject and basis of questions in your work:
 TODO
 
+#### Data Reference:
+TODO
+
+
+#### Steps I have taken already:
+TODO
+
+
+#### Steps that I will take:
+TODO
 
 
 
